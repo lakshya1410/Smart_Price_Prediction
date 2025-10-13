@@ -167,6 +167,8 @@ cython_debug/
 data/raw/
 data/external/
 data/processed/
+data/train.csv
+data/test.csv
 *.csv
 *.tsv
 *.xlsx
@@ -194,6 +196,12 @@ checkpoints/
 # Embedding files and preprocessed features
 embeddings/
 features/
+outputs/train_text_emb.npy
+outputs/test_text_emb.npy
+outputs/train_image_emb.npy
+outputs/test_image_emb.npy
+outputs/*.npy
+outputs/*.npz
 *.npy
 *.npz
 *.mat
