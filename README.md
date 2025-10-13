@@ -16,6 +16,7 @@ This solution implements a multimodal machine learning approach for product pric
 
 ### 2.1 Problem Analysis
 
+
 The smart product pricing challenge requires predicting product prices based on multimodal data (text descriptions and images). Key insights from exploratory data analysis:
 
 **Key Observations:**
