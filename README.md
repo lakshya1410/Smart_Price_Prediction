@@ -1,8 +1,5 @@
 # ML Challenge 2025: Smart Product Pricing Solution
 
-**Team Name:** Smart Price Predictors  
-**Team Members:** [Your Name]  
-**Submission Date:** October 13, 2025
 
 ---
 
